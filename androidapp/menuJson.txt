@@ -1,0 +1,47 @@
+{   
+    "url_head": "assets://",
+    "menu": [
+        {
+            "front_name": "测试1",
+            "front_imgurl": "ic_launcher.png",
+			"back_name": "测试2",
+            "back_imgurl": "https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superplus/img/logo_white_ee663702.png",
+			"onclick": "http://www.baidu.com"
+        },{
+			
+            "front_name": "测试21",
+            "front_imgurl": "ic_launcher.png",
+			"back_name": "测试22",
+            "back_imgurl": "ic_launcher.png",
+			"onclick": "http://www.baidu.com"
+		},{
+			
+            "front_name": "测试31",
+            "front_imgurl": "ic_launcher.png",
+			"back_name": "测试32",
+            "back_imgurl": "ic_launcher.png",
+			"onclick": "http://www.baidu.com"
+		},{
+			
+            "front_name": "测试41",
+            "front_imgurl": "ic_launcher.png",
+			"back_name": "测试42",
+            "back_imgurl": "ic_launcher.png",
+			"onclick": "http://www.baidu.com"
+		},{
+			
+            "front_name": "测试51",
+            "front_imgurl": "ic_launcher.png",
+			"back_name": "测试52",
+            "back_imgurl": "ic_launcher.png",
+			"onclick": "http://www.baidu.com"
+		},{
+			
+            "front_name": "测试61",
+            "front_imgurl": "ic_launcher.png",
+			"back_name": "测试62",
+            "back_imgurl": "ic_launcher.png",
+			"onclick": "http://www.baidu.com"
+		}
+    ]
+}
