@@ -1,11 +1,11 @@
 {   
-    "url_head": "assets://",
+    "url_head": "",
     "menu": [
         {
             "front_name": "测试1",
             "front_imgurl": "ic_launcher.png",
 			"back_name": "测试2",
-            "back_imgurl": "https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superplus/img/logo_white_ee663702.png",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/logo.jpg",
 			"onclick": "http://www.baidu.com"
         },{
 			
