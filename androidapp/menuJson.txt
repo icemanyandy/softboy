@@ -1,47 +1,47 @@
 {   
-    "url_head": "",
+    "url_head": "assets://",
     "menu": [
         {
-            "front_name": "测试1",
-            "front_imgurl": "ic_launcher.png",
-			"back_name": "测试2",
-            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/logo.jpg",
-			"onclick": "http://www.baidu.com"
+            "front_name": "清纯美女",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/qingchun2.jpg",
+			"back_name": "快来看看",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/qingchun1.jpg",
+			"onclick": "http://image.baidu.com/wisebrowse/index?tag1=%E7%BE%8E%E5%A5%B3&tag2=%E5%85%A8%E9%83%A8&tag3=&pn=0&rn=10&fmpage=index&pos=magic#/home"
         },{
 			
-            "front_name": "测试21",
-            "front_imgurl": "ic_launcher.png",
-			"back_name": "测试22",
-            "back_imgurl": "ic_launcher.png",
-			"onclick": "http://www.baidu.com"
+            "front_name": "性感火辣",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/xinggan1.jpg",
+			"back_name": "巨乳",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/xinggan2.jpg",
+			"onclick": "http://m.djzds.com/hot/azbt.html"
 		},{
 			
-            "front_name": "测试31",
-            "front_imgurl": "ic_launcher.png",
-			"back_name": "测试32",
-            "back_imgurl": "ic_launcher.png",
-			"onclick": "http://www.baidu.com"
+            "front_name": "艳照门",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/yanzhaomen.jpg",
+			"back_name": "偷拍自拍",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/yanzhaomen2.jpg",
+			"onclick": "http://m.baidu.com/from=1009642g/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401320_2003%2Cta%40iphone_1_8.3_1_10.4/baiduid=F75A3A1F209AEB461022B46A19B79CDE/w=0_10_%E7%99%BD%E9%A2%86%E9%97%A8%E4%BA%8B%E4%BB%B6/t=iphone/l=3/tc?m=8&srd=1&dict=30&title=%25252525252525u516C%25252525252525u53F8%25252525252525u767D%25252525252525u9886%25252525252525u8273%25252525252525u7167%25252525252525u95E8%25252525252525u4E8B%25252525252525u4EF6%25252525252525u56FE%25252525252525u7247%252525252525252C%25252525252525u4E00%25252525252525u4F01%25252525252525u4E1A%25252525252525u767D%25252525252525u9886%25252525252525u906D%25252525252525u6F5C%25252525252525u89C4%25252525252525u5219%25252525252525u62CD%25252525252525u8273%25252525252525u7167%25252525252525u56FE%25252525252525u7247&tj=navListTap&hasShown&src=http%3A%2F%2Fwww.258ai.com%2Fzhaopian%2F"
 		},{
 			
-            "front_name": "测试41",
-            "front_imgurl": "ic_launcher.png",
-			"back_name": "测试42",
-            "back_imgurl": "ic_launcher.png",
-			"onclick": "http://www.baidu.com"
+            "front_name": "激情",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/laiyipao1.jpg",
+			"back_name": "来一发",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/laiyipao2.jpg",
+			"onclick": "http://m.mm131.com/"
 		},{
 			
-            "front_name": "测试51",
-            "front_imgurl": "ic_launcher.png",
-			"back_name": "测试52",
-            "back_imgurl": "ic_launcher.png",
-			"onclick": "http://www.baidu.com"
+            "front_name": "诱惑",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/luguan1.jpg",
+			"back_name": "",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/luguan2.jpg",
+			"onclick": "http://www.123xa.com/tupian/tuijian/"
 		},{
 			
-            "front_name": "测试61",
-            "front_imgurl": "ic_launcher.png",
-			"back_name": "测试62",
-            "back_imgurl": "ic_launcher.png",
-			"onclick": "http://www.baidu.com"
+            "front_name": "无码",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/online2.jpg",
+			"back_name": "vip播放",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/online1.jpg",
+			"onclick": "http://m.v.6.cn"
 		}
     ]
 }
