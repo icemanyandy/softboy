@@ -39,7 +39,7 @@
 			
             "front_name": "无码",
             "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/online2.jpg",
-			"back_name": "vip播放",
+			"back_name": "直播真人秀",
             "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/androidapp/assets/online1.jpg",
 			"onclick": "http://m.v.6.cn"
 		}
