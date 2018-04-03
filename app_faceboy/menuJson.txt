@@ -12,7 +12,7 @@
             "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/updatetip.png",
 			"back_name": "Add Face",
             "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/updatetip.png",
-			"onclick": "https://pan.baidu.com/s/1i5oXoJ7"
+			"onclick": "http://pan.baidu.com/s/1i5oXoJ7"
         },{
 			
             "front_name": "考勤",
