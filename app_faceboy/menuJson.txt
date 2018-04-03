@@ -9,10 +9,10 @@
 			"onclick": ""
         },{
 			
-            "front_name": "高级登记",
-            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/super_add.jpg",
+            "front_name": "软件升级",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/updatetip.png",
 			"back_name": "Add Faces",
-            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/super_add2.jpg",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/updatetip.png",
 			"onclick": "http://pan.baidu.com/s/1i5oXoJ7"
 		},{
 			
