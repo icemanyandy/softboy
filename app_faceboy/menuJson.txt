@@ -9,10 +9,10 @@
 			"onclick": ""
         },{
 			
-            "front_name": "软件升级",
-            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/updatetip.png",
-			"back_name": "Add Faces",
-            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/updatetip.png",
+            "front_name": "update",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/add_face.jpg",
+			"back_name": "Add Face",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/add_face2.jpg",
 			"onclick": "http://pan.baidu.com/s/1i5oXoJ7"
 		},{
 			
