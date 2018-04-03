@@ -7,14 +7,13 @@
 			"back_name": "Add Face",
             "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/add_face2.jpg",
 			"onclick": ""
-        },{
-			
-            "front_name": "update",
+        }, {
+            "front_name": "人脸登记",
             "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/add_face.jpg",
 			"back_name": "Add Face",
             "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/add_face2.jpg",
-			"onclick": "http://pan.baidu.com/s/1i5oXoJ7"
-		},{
+			"onclick": ""
+        },{
 			
             "front_name": "考勤",
             "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/shaomiao.jpg",
