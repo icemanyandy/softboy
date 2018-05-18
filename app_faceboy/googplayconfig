@@ -1,0 +1,46 @@
+{   
+    "url_head": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/",
+    "menu": [
+        {
+            "front_name": "人脸登记",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/add_face.jpg",
+			"back_name": "Add Face",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/add_face2.jpg",
+			"onclick": ""
+        }, {
+            "front_name": "高级登记",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/super_add.jpg",
+			"back_name": "Add Face",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/super_add2.jpg",
+			"onclick": ""
+        },{
+			
+            "front_name": "考勤",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/shaomiao.jpg",
+			"back_name": "attendance record",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/kaoqing.jpg",
+			"onclick": ""
+		},{
+			
+            "front_name": "考勤管理",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/kaoqingguanli.png",
+			"back_name": "attendance manage",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/kaoqingguanli.png",
+			"onclick": ""
+		},{
+			
+            "front_name": "人脸管理",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/renlianguanli.png",
+			"back_name": "face manage",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/renlianguanli.png",
+			"onclick": ""
+		},{
+			
+            "front_name": "设置",
+            "front_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/setting.jpg",
+			"back_name": "setting",
+            "back_imgurl": "https://raw.githubusercontent.com/icemanyandy/website/master/app_faceboy/setting2.jpg",
+			"onclick": ""
+		}
+    ]
+}
